@@ -1,7 +1,7 @@
 {
 	"name": "requiremodules",
-	"version": "0.0.3",
-	"description": "Wrapper to configuration in CJSON",
+	"version": "0.0.4",
+	"description": "Constructor the dependencies comander",
 	"main": "lib/index.js",
 	"scripts": {
 		"test": "DEBUG= ./node_modules/.bin/mocha -t 5000"
@@ -28,6 +28,6 @@
 		"modules",
 		"require"
 	],
-	"author": "Alejo Next",
+	"author": "Alejo Next <alejonext@gmail.com>",
 	"license": "Apache-2.0"
 }
