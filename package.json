@@ -11,7 +11,10 @@
 		"url": "git@github.com:alejonext/requiremodules.git"
 	},
 	"dependencies": {
-		"wrench": ">=0.3.0"
+		"commander" : ">=2.1.0",
+		"underscore" : ">=1.6.0",
+		"wrench" : ">=1.5.8",
+		"pkginfo" : ">=0.3.0"
 	},
 	"devDependencies": {
 		"mocha": "*"
