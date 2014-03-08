@@ -16,6 +16,9 @@
 	"devDependencies": {
 		"mocha": "*"
 	},
+	"bin": {
+		"require": "lib/index.js"
+	},
 	"keywords": [
 		"dependencies",
 		"package.json",
