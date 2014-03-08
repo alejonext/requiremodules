@@ -1,6 +1,6 @@
 {
 	"name": "requiremodules",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "Constructor the dependencies comander",
 	"main": "lib/index.js",
 	"scripts": {
