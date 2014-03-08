@@ -1,0 +1,27 @@
+{
+	"name": "requiremodules",
+	"version": "0.0.3",
+	"description": "Wrapper to configuration in CJSON",
+	"main": "lib/index.js",
+	"scripts": {
+		"test": "DEBUG= ./node_modules/.bin/mocha -t 5000"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:alejonext/requiremodules.git"
+	},
+	"dependencies": {
+		"wrench": ">=0.3.0"
+	},
+	"devDependencies": {
+		"mocha": "*"
+	},
+	"keywords": [
+		"dependencies",
+		"package.json",
+		"modules",
+		"require"
+	],
+	"author": "Alejo Next",
+	"license": "Apache-2.0"
+}
