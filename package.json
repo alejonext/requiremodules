@@ -1,6 +1,6 @@
 {
 	"name": "requiremodules",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "Constructor the dependencies comander",
 	"main": "lib/index.js",
 	"repository": {
@@ -10,8 +10,7 @@
 	"dependencies": {
 		"commander" : ">=2.1.0",
 		"underscore" : ">=1.6.0",
-		"wrench" : ">=1.5.8",
-		"pkginfo" : ">=0.3.0"
+		"wrench" : ">=1.5.8"
 	},
 	"devDependencies": {
 		"mocha": "*"
